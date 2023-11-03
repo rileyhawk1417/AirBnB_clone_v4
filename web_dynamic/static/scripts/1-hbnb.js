@@ -1,5 +1,4 @@
 //Ensure script only runs when dom is loaded
-const $ = window.$;
 
 $(document).ready(function () {
   const amenities = {};
